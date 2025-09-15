@@ -19,7 +19,6 @@ jobs:
     - name: trial_checkout
       run: echo "hello World"
       shell: bash
-	
   goodbye:
     runs-on: ubuntu-latest
     steps:
